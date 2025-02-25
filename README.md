@@ -1,7 +1,5 @@
 # 🌱 EcoFlux – Aplicativo de Venda de Crédito de Carbono  
 
-![EcoFlux Banner](https://via.placeholder.com/1000x300?text=EcoFlux+-+Sustentabilidade+em+Suas+Mãos)  
-
 ## 📌 Visão Geral  
 O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de créditos de carbono, incentivando práticas sustentáveis e ajudando indivíduos e empresas a compensarem suas emissões de CO₂ de forma prática e transparente.  
 
