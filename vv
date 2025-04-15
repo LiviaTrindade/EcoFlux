@@ -1,0 +1,70 @@
+# Entregas do Projeto
+
+O projeto terá dois momentos formais de entrega:
+
+## Entrega Parcial (11/04)
+
+Na nona semana do curso, os grupos deverão apresentar um protótipo funcional do aplicativo implementando os conceitos estudados até aquele momento. Esta entrega deve incluir:
+
+- Código-fonte do projeto
+- APK para instalação e teste
+- Documentação técnica parcial
+- Apresentação de 10-15 minutos demonstrando as funcionalidades implementadas
+
+## Entrega Final (06/06)
+
+Na décima oitava semana, os grupos farão a entrega completa do aplicativo, contemplando todos os requisitos e funcionalidades planejadas. Esta entrega deve incluir:
+
+- Código-fonte completo e documentado
+- APK final para instalação
+- Documentação técnica completa
+- Manual do usuário
+- Apresentação final de 20-30 minutos demonstrando o aplicativo completo
+
+Ambas as entregas serão avaliadas considerando aspectos técnicos, funcionais, de usabilidade e de apresentação, conforme critérios detalhados que serão fornecidos previamente.
+
+
+coletivo:
+
+1. **Competências técnicas**:
+   - Domínio do framework Flutter e linguagem Dart
+   - Aplicação de boas práticas de UI/UX em interfaces móveis
+   - Implementação de arquiteturas escaláveis de software
+   - Gerenciamento de dados e comunicação com APIs
+
+2. **Competências metodológicas**:
+   - Aplicação de metodologias ágeis (Scrum)
+   - Gerenciamento de projetos de software
+   - Controle de versão e colaboração
+
+3. **Competências interpessoais**:
+   - Comunicação técnica eficaz
+   - Trabalho colaborativo em equipe
+   - Resolução de conflitos e negociação
+
+individual:
+1. **Contribuições para o código** (40%)
+   - Quantidade e qualidade dos commits no repositório
+   - Complexidade e importância das funcionalidades implementadas
+   - Participação em code reviews
+
+2. **Diário de Desenvolvimento** (30%)
+   - Regularidade e completude dos registros
+   - Qualidade das reflexões e descrições técnicas
+   - Evidência de crescimento e aprendizado
+
+3. **Participação nas atividades em sala** (20%)
+   - Presença e engajamento nas sessões de tutoria
+   - Contribuições para discussões técnicas
+   - Colaboração com outros grupos quando apropriado
+
+4. **Avaliação pelos pares** (10%)
+   - Feedback dos colegas de equipe sobre contribuições e colaboração
+
+
+Documentação técnica parcial:
+
+- Descrição da arquitetura adotada
+- Diagrama de classes/componentes principais
+- Mapa de navegação do aplicativo
+- Descrição das funcionalidades implementadas
