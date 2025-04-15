@@ -31,7 +31,9 @@ O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de crédit
 - 📊 **Gerente de Projeto**  
 
 ---
-
-
+## 📂 Ferramentas Utilizadas  
+- 🔗 **Gerenciamento de Código**: [GitHub Repo](https://github.com/LiviaTrindade/EcoFlux)    
+- 📊 **Scrum Board**: [Jira](https://ecoflux.atlassian.net/jira/software/projects/SCRUM/boards/1)
+- 🎨 **Design e Fluxo do Projeto**: [Miro Board](https://miro.com/app/board/uXjVIbm8OZI=/)  
 ---
 
