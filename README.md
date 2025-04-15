@@ -37,3 +37,4 @@ O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de crédit
 - 🎨 **Design e Fluxo do Projeto**: [Miro Board](https://miro.com/app/board/uXjVIbm8OZI=/)  
 ---
 
+
