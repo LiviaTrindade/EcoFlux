@@ -14,7 +14,7 @@ O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de crédit
 - ✅ **Dashboard e Relatórios** – Visualização do impacto ambiental das transações realizadas.  
 
 ---
-
+-
 ## 🛠 Tecnologia  
 - 📱 **Framework**: Flutter  
 - 🗄 **Banco de Dados**: MySQL  
