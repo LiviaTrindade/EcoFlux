@@ -3,7 +3,7 @@
 ## 📌 Visão Geral  
 O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de créditos de carbono, incentivando práticas sustentáveis e ajudando indivíduos e empresas a compensarem suas emissões de CO₂ de forma prática e transparente.  
 
---
+---
 
 ## 🚀 Funcionalidades Principais  
 - ✅ **Cadastro e Login** – Registro e autenticação de usuários.  
