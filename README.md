@@ -22,7 +22,7 @@ O **EcoFlux** é um aplicativo inovador que facilita a compra e venda de crédit
 - 🔐 **Autenticação**: Firebase Auth  
 - 💳 **Meios de Pagamento**: PayPal  
 
----
+--
 
 ## 👥 Equipe (6 Integrantes)  
 - 👨‍💻 **Desenvolvedores Flutter**  
